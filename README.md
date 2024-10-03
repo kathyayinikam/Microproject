@@ -1,7 +1,5 @@
 # **Student Enrollment Form with JsonPowerDB**
 
-## **Project Title:**
-Student Enrollment Form using JsonPowerDB
 
 ## **Description:**
 This project involves the creation of a **Student Enrollment Form** that stores student information into a **Student Table** within a **JSON-based database** (JsonPowerDB). The form collects basic student details like roll number, full name, date of birth, address, and enrollment date. The form provides three functionalities: saving new student records, updating existing records, and resetting the form for a fresh start. The project uses JsonPowerDB as the backend for database management, making it fast, flexible, and easy to use for small-to-medium applications.
